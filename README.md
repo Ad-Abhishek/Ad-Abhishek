@@ -17,12 +17,13 @@ Full Stack Developer (MERN) | Blockchain & Web3 | Python & Data
 
 ## 👨‍💻 About Me
 
-- 🚀 Full Stack **MERN Developer** with industry experience  
-- 🔗 Actively working in **Blockchain & Web3 applications**
+- 🪴 **Founder & CTO** @ Drona Intelligence  
+- 🚀 **Software Engineer** with industry experience  
+- 🔗 Experience in **Blockchain & Web3 applications**
 - 🐍 Strong foundation in **Python for data & AI**
 - 🧠 Exploring **AI / ML** and secure decentralized systems
 - 🎓 Bachelor’s in **Software Engineering**
-- 🌱 Building products at **Aankhijhyal Technologies**
+- 🌱 Building products at **Drona Intelligence**
 - 🇳🇵 Based in Nepal | 🌍 Open to global opportunities
 
 ---
