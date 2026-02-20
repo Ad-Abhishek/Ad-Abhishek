@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Abhishek Adhikari</h1>
 <h3 align="center">
-Full Stack Developer (MERN) | Blockchain & Web3 | Python & Data
+Founder & CTO @ Drona Intelligence | Software Engineer | Blockchain & Web3 | Python & Data
 </h3>
 
 <p align="center">
