@@ -17,7 +17,7 @@ Founder & CTO @ Drona Intelligence | Software Engineer | Blockchain & Web3 | Pyt
 
 ## 👨‍💻 About Me
 
-- 🪴 **Founder & CTO** @ Drona Intelligence  
+- 🪴 **Co-Founder & CTO** @ Drona Intelligence  
 - 🚀 **Software Engineer** with industry experience  
 - 🔗 Experience in **Blockchain & Web3 applications**
 - 🐍 Strong foundation in **Python for data & AI**
