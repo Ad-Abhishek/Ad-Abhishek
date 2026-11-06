@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Abhishek Adhikari</h1>
 <h3 align="center">
-Founder & CTO @ Drona Intelligence | Software Engineer | Blockchain & Web3 | Python & Data
+Co-Founder & CTO @ Drona Intelligence | Software Engineer | Blockchain & Web3 | Python & Data
 </h3>
 
 <p align="center">
@@ -18,6 +18,7 @@ Founder & CTO @ Drona Intelligence | Software Engineer | Blockchain & Web3 | Pyt
 ## 👨‍💻 About Me
 
 - 🪴 **Co-Founder & CTO** @ Drona Intelligence  
+- 🎓 **Lecturer** @ La Grandee International College
 - 🚀 **Software Engineer** with industry experience  
 - 🔗 Experience in **Blockchain & Web3 applications**
 - 🐍 Strong foundation in **Python for data & AI**
